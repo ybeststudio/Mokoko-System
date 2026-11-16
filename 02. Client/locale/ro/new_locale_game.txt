@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	Întãrire nouã: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Îmbunãtãþirea Cristalului de Energie a eºuat (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Cristalul de Energie a ajuns la +{}.
+MOKOKO_COLLECTION_PROGRESS	Progresul colectiei Mokoko ({} / {})
+MOKOKO_FOUND_NOTIFICATION	Ai gãsit un nou Mokoko!
+MOKOKO_MAP_PROGRESS	Mokoko |Eemoji/mokoko|e gãsiti pe aceastã hartã: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Nivel necesar: {}
+MOKOKO_MILESTONE_REWARDS	Recompense de etapã
+MOKOKO_REWARDS_TITLE	Recompense Mokoko
+MOKOKO_REWARD_ALREADY_CLAIMED	Aceastã recompensã a fost deja revendicatã.
+MOKOKO_REWARD_DATABASE_ERROR	Recompensa nu a putut fi salvatã. Încearcã din nou.
+MOKOKO_REWARD_INVALID	Aceastã recompensã Mokoko nu este disponibilã.
+MOKOKO_REWARD_INVENTORY_FULL	Elibereazã spatiu în inventar înainte de a revendica aceastã recompensã.
+MOKOKO_REWARD_LOCKED_ERROR	Nu ai gãsit suficiente Mokoko.
+MOKOKO_REWARD_ROW_UNLOCK	Se deblocheazã la {} Mokoko
+MOKOKO_REWARD_SUCCESS	Recompensa Mokoko a fost revendicatã.
+MOKOKO_REWARD_TOOLTIP_ITEM	Obiect
+MOKOKO_REWARD_TOOLTIP_NAME	Nume
+MOKOKO_REWARD_TOOLTIP_QTY	Cant.
+MOKOKO_REWARD_TOOLTIP_TITLE	Recompensã pentru {} Mokoko
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

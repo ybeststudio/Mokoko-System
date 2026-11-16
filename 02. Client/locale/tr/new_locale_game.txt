@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	Yeni güçlendirme: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Enerji Kristali yükseltmesi baþarýsýz oldu (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Enerji Kristali +{} seviyesine yükseldi.
+MOKOKO_COLLECTION_PROGRESS	Mokoko koleksiyonu ilerlemesi ({} / {})
+MOKOKO_FOUND_NOTIFICATION	Yeni bir Mokoko buldun!
+MOKOKO_MAP_PROGRESS	Bu haritada bulunan Mokoko |Eemoji/mokoko|e: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Gerekli seviye: {}
+MOKOKO_MILESTONE_REWARDS	Aþama ödülleri
+MOKOKO_REWARDS_TITLE	Mokoko ödülleri
+MOKOKO_REWARD_ALREADY_CLAIMED	Bu ödül zaten alýndý.
+MOKOKO_REWARD_DATABASE_ERROR	Ödül kaydedilemedi. Lütfen tekrar dene.
+MOKOKO_REWARD_INVALID	Bu Mokoko ödülü kullanýlamýyor.
+MOKOKO_REWARD_INVENTORY_FULL	Bu ödülü almadan önce envanterinde yer aç.
+MOKOKO_REWARD_LOCKED_ERROR	Yeterli Mokoko bulmadýn.
+MOKOKO_REWARD_ROW_UNLOCK	{} Mokoko ile açýlýr
+MOKOKO_REWARD_SUCCESS	Mokoko ödülü alýndý.
+MOKOKO_REWARD_TOOLTIP_ITEM	Eþya
+MOKOKO_REWARD_TOOLTIP_NAME	Ad
+MOKOKO_REWARD_TOOLTIP_QTY	Adet
+MOKOKO_REWARD_TOOLTIP_TITLE	{} Mokoko ödülü
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

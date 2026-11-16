@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	New boost: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Energy Crystal upgrade failed (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Energy Crystal upgraded to +{}.
+MOKOKO_COLLECTION_PROGRESS	Mokoko Collection Progress ({} / {})
+MOKOKO_FOUND_NOTIFICATION	You've found a new Mokoko!
+MOKOKO_MAP_PROGRESS	Mokoko |Eemoji/mokoko|e found on this map: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Required level: {}
+MOKOKO_MILESTONE_REWARDS	Milestone rewards
+MOKOKO_REWARDS_TITLE	Mokoko rewards
+MOKOKO_REWARD_ALREADY_CLAIMED	This reward has already been claimed.
+MOKOKO_REWARD_DATABASE_ERROR	The reward could not be saved. Please try again.
+MOKOKO_REWARD_INVALID	This Mokoko reward is unavailable.
+MOKOKO_REWARD_INVENTORY_FULL	Free up inventory space before claiming this reward.
+MOKOKO_REWARD_LOCKED_ERROR	You have not found enough Mokoko.
+MOKOKO_REWARD_ROW_UNLOCK	Unlock at {} Mokoko
+MOKOKO_REWARD_SUCCESS	Mokoko reward claimed.
+MOKOKO_REWARD_TOOLTIP_ITEM	Item
+MOKOKO_REWARD_TOOLTIP_NAME	Name
+MOKOKO_REWARD_TOOLTIP_QTY	Qty
+MOKOKO_REWARD_TOOLTIP_TITLE	Reward for {} Mokoko
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

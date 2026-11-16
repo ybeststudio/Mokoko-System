@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	Nové posílení: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Vylepšení Energetického krystalu selhalo (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Energetický krystal byl vylepšen na +{}.
+MOKOKO_COLLECTION_PROGRESS	Postup sbírky Mokoko ({} / {})
+MOKOKO_FOUND_NOTIFICATION	Bylo nalezeno nové Mokoko!
+MOKOKO_MAP_PROGRESS	Mokoko |Eemoji/mokoko|e nalezené na této mapì: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Požadovaná úroveò: {}
+MOKOKO_MILESTONE_REWARDS	Odmìny za milníky
+MOKOKO_REWARDS_TITLE	Odmìny za Mokoko
+MOKOKO_REWARD_ALREADY_CLAIMED	Tato odmìna již byla vyzvednuta.
+MOKOKO_REWARD_DATABASE_ERROR	Odmìnu se nepodaøilo uložit. Zkus to znovu.
+MOKOKO_REWARD_INVALID	Tato odmìna za Mokoko není dostupná.
+MOKOKO_REWARD_INVENTORY_FULL	Pøed vyzvednutím odmìny uvolni místo v inventáøi.
+MOKOKO_REWARD_LOCKED_ERROR	Nenašel jsi dostatek Mokoko.
+MOKOKO_REWARD_ROW_UNLOCK	Odemkne se pøi {} Mokoko
+MOKOKO_REWARD_SUCCESS	Odmìna za Mokoko byla vyzvednuta.
+MOKOKO_REWARD_TOOLTIP_ITEM	Pøedmìt
+MOKOKO_REWARD_TOOLTIP_NAME	Název
+MOKOKO_REWARD_TOOLTIP_QTY	Poèet
+MOKOKO_REWARD_TOOLTIP_TITLE	Odmìna za {} Mokoko
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

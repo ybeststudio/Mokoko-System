@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	Nowe wzmocnienie: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Ulepszenie Kryszta³u Energii nie powiod³o siê (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Kryszta³ Energii zosta³ ulepszony do poziomu +{}.
+MOKOKO_COLLECTION_PROGRESS	Postêp kolekcji Mokoko ({} / {})
+MOKOKO_FOUND_NOTIFICATION	Znaleziono nowe Mokoko!
+MOKOKO_MAP_PROGRESS	Mokoko |Eemoji/mokoko|e znalezione na tej mapie: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Wymagany poziom: {}
+MOKOKO_MILESTONE_REWARDS	Nagrody za etapy
+MOKOKO_REWARDS_TITLE	Nagrody Mokoko
+MOKOKO_REWARD_ALREADY_CLAIMED	Ta nagroda zosta³a ju¿ odebrana.
+MOKOKO_REWARD_DATABASE_ERROR	Nie uda³o siê zapisaæ nagrody. Spróbuj ponownie.
+MOKOKO_REWARD_INVALID	Ta nagroda Mokoko jest niedostêpna.
+MOKOKO_REWARD_INVENTORY_FULL	Zwolnij miejsce w ekwipunku przed odebraniem tej nagrody.
+MOKOKO_REWARD_LOCKED_ERROR	Nie znaleziono wystarczaj¹cej liczby Mokoko.
+MOKOKO_REWARD_ROW_UNLOCK	Odblokowanie przy {} Mokoko
+MOKOKO_REWARD_SUCCESS	Odebrano nagrodê Mokoko.
+MOKOKO_REWARD_TOOLTIP_ITEM	Przedmiot
+MOKOKO_REWARD_TOOLTIP_NAME	Nazwa
+MOKOKO_REWARD_TOOLTIP_QTY	Iloœæ
+MOKOKO_REWARD_TOOLTIP_TITLE	Nagroda za {} Mokoko
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

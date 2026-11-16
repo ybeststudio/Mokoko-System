@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	Nuovo rafforzamento: {:.1f}%
+ENERGY_CRYSTAL_REFINE_FAIL	Potenziamento del Cristallo di Energia fallito (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Il Cristallo di Energia è salito a +{}.
+MOKOKO_COLLECTION_PROGRESS	Progresso della collezione Mokoko ({} / {})
+MOKOKO_FOUND_NOTIFICATION	Hai trovato un nuovo Mokoko!
+MOKOKO_MAP_PROGRESS	Mokoko |Eemoji/mokoko|e trovati in questa mappa: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Livello richiesto: {}
+MOKOKO_MILESTONE_REWARDS	Ricompense traguardo
+MOKOKO_REWARDS_TITLE	Ricompense Mokoko
+MOKOKO_REWARD_ALREADY_CLAIMED	Questa ricompensa è già stata ritirata.
+MOKOKO_REWARD_DATABASE_ERROR	Impossibile salvare la ricompensa. Riprova.
+MOKOKO_REWARD_INVALID	Questa ricompensa Mokoko non è disponibile.
+MOKOKO_REWARD_INVENTORY_FULL	Libera spazio nell'inventario prima di ritirare questa ricompensa.
+MOKOKO_REWARD_LOCKED_ERROR	Non hai trovato abbastanza Mokoko.
+MOKOKO_REWARD_ROW_UNLOCK	Si sblocca a {} Mokoko
+MOKOKO_REWARD_SUCCESS	Ricompensa Mokoko ritirata.
+MOKOKO_REWARD_TOOLTIP_ITEM	Oggetto
+MOKOKO_REWARD_TOOLTIP_NAME	Nome
+MOKOKO_REWARD_TOOLTIP_QTY	Qtà
+MOKOKO_REWARD_TOOLTIP_TITLE	Ricompensa per {} Mokoko
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

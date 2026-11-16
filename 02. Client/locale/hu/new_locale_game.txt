@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	Új erõsítés: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Az Energiakristály fejlesztése sikertelen (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Az Energiakristály +{} szintre fejlõdött.
+MOKOKO_COLLECTION_PROGRESS	A Mokoko-gyûjtemény elõrehaladása ({} / {})
+MOKOKO_FOUND_NOTIFICATION	Találtál egy új Mokokót!
+MOKOKO_MAP_PROGRESS	Ezen a térképen megtalált Mokokók |Eemoji/mokoko|e: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	Szükséges szint: {}
+MOKOKO_MILESTONE_REWARDS	Mérföldkõ-jutalmak
+MOKOKO_REWARDS_TITLE	Mokoko jutalmak
+MOKOKO_REWARD_ALREADY_CLAIMED	Ezt a jutalmat már átvetted.
+MOKOKO_REWARD_DATABASE_ERROR	A jutalmat nem sikerült menteni. Próbáld újra.
+MOKOKO_REWARD_INVALID	Ez a Mokoko jutalom nem érhetõ el.
+MOKOKO_REWARD_INVENTORY_FULL	A jutalom átvétele elõtt szabadíts fel helyet a leltárban.
+MOKOKO_REWARD_LOCKED_ERROR	Nem találtál elég Mokokót.
+MOKOKO_REWARD_ROW_UNLOCK	Feloldás {} Mokokónál
+MOKOKO_REWARD_SUCCESS	A Mokoko jutalmat átvetted.
+MOKOKO_REWARD_TOOLTIP_ITEM	Tárgy
+MOKOKO_REWARD_TOOLTIP_NAME	Név
+MOKOKO_REWARD_TOOLTIP_QTY	Db
+MOKOKO_REWARD_TOOLTIP_TITLE	Jutalom {} Mokoko után
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})

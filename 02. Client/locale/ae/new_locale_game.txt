@@ -1,0 +1,22 @@
+ENERGY_CRYSTAL_RATE_RESULT	ΗαΚΪÒνÒ ΗαΜΟνΟ: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	έΤα ΚΨζνΡ ΘαζΡΙ ΗαΨΗήΙ (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Κγ ΚΨζνΡ ΘαζΡΙ ΗαΨΗήΙ Εαμ +{}.
+MOKOKO_COLLECTION_PROGRESS	ΚήΟγ γΜγζΪΙ γζίζίζ ({} / {})
+MOKOKO_FOUND_NOTIFICATION	αήΟ ΪΛΡΚ Ϊαμ γζίζίζ ΜΟνΟ!
+MOKOKO_MAP_PROGRESS	ΘΠζΡ γζίζίζ |Eemoji/mokoko|e ΗαγζΜζΟΙ έν εΠε ΗαΞΡνΨΙ: {} / {}
+MOKOKO_MAP_REQUIRED_LEVEL	ΗαγΣΚζμ ΗαγΨαζΘ: {}
+MOKOKO_MILESTONE_REWARDS	γίΗέΒΚ ΗαγΡΗΝα
+MOKOKO_REWARDS_TITLE	γίΗέΒΚ γζίζίζ
+MOKOKO_REWARD_ALREADY_CLAIMED	Κγ ΗΣΚαΗγ εΠε ΗαγίΗέΓΙ γδ ήΘα.
+MOKOKO_REWARD_DATABASE_ERROR	ΚΪΠΡ ΝέΩ ΗαγίΗέΓΙ. ΝΗζα γΡΙ ΓΞΡμ.
+MOKOKO_REWARD_INVALID	γίΗέΓΙ γζίζίζ εΠε ΫνΡ γΚΗΝΙ.
+MOKOKO_REWARD_INVENTORY_FULL	ΓέΡΫ γΣΗΝΙ έν ΗαγΞÒζδ ήΘα ΗΣΚαΗγ εΠε ΗαγίΗέΓΙ.
+MOKOKO_REWARD_LOCKED_ERROR	αγ ΚΪΛΡ Ϊαμ ΪΟΟ ίΗές γδ γζίζίζ.
+MOKOKO_REWARD_ROW_UNLOCK	νέΚΝ ΪδΟ {} γζίζίζ
+MOKOKO_REWARD_SUCCESS	Κγ ΗΣΚαΗγ γίΗέΓΙ γζίζίζ.
+MOKOKO_REWARD_TOOLTIP_ITEM	ΫΡΦ
+MOKOKO_REWARD_TOOLTIP_NAME	ΗαΗΣγ
+MOKOKO_REWARD_TOOLTIP_QTY	ΗαίγνΙ
+MOKOKO_REWARD_TOOLTIP_TITLE	γίΗέΓΙ γήΗΘα {} γζίζίζ
+MOKOKO_TOTAL_PROGRESS	{} / {}
+MOKOKO_TOTAL_PROGRESS_AVAILABLE	{} / {}  (+{})
